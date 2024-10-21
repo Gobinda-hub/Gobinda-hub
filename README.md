@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobinda-hub&label=Profile%20views&color=0e75b6&style=flat" alt="gobinda-hub" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://wondrous-melomakarona-7992d5.netlify.app/](https://wondrous-melomakarona-7992d5.netlify.app/)
+- 👨‍💻 All of my projects are available at https://friendly-clafoutis-f59709.netlify.app/
 
 - 📫 How to reach me **mgobinda204@gmail.com**
 
